@@ -9,7 +9,6 @@ Day 2
 
 Day 3
 - Loading data and basic visualizations 
-<br>
 ![alt text](https://github.com//Goldas99/DW_Matrix/blob/main/images/Visualization.png?raw=true)
 
 Day 4
@@ -17,5 +16,4 @@ Day 4
 
 Day 5
 - Training Random Forest. Checking feature importance
-<br>
 ![alt text](https://github.com//Goldas99/DW_Matrix/blob/main/images/FeatureImportance.png?raw=true)
