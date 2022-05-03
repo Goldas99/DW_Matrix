@@ -8,5 +8,16 @@ Day 2
 - Connecting Google Colab with Github
 
 Day 3
-- Loading data and basic visualizations <br>
+- Loading data and basic visualizations 
+<br>
 ![alt text](https://github.com//Goldas99/DW_Matrix/blob/main/images/Visualization.png?raw=true)
+</br>
+
+Day 4
+- Training simple Decision Tree
+
+Day 5
+- Training Random Forest. Checking feature importance
+<br>
+![alt text](https://github.com//Goldas99/DW_Matrix/blob/main/images/FeatureImportance.png?raw=true)
+</br>
