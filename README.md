@@ -9,4 +9,4 @@ Day 2
 
 Day 3
 - Loading data and basic visualizations
-![alt text](https://github.com//Goldas99/DW_Matrix/blob/main/images/Plots.png?raw=true)
+![alt text](https://github.com//Goldas99/DW_Matrix/blob/main/images/Visualization.png?raw=true)
